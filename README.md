@@ -15,7 +15,6 @@ My name is Daniel 🦄
 
 ### Link to a Page
 My favorite website is [this](https://www.danielkaser.de/code).
-My favorite website is <a href="https://www.danielkaser.de/code" target="_blank">this</a>.
 
 ### My Favorite Code
 ``` js
