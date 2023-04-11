@@ -14,7 +14,8 @@ My name is Daniel 🦄
 - really!!
 
 ### Link to a Page
-My favorite website is [Daniel Kaser](https://www.danielkaser.de/code).
+My favorite website is [this](https://www.danielkaser.de/code).
+My favorite website is <a href="https://www.danielkaser.de/code" target="_blank">this</a>.
 
 ### My Favorite Code
 ``` js
@@ -29,7 +30,9 @@ for (element of readers) {
 ### Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,linux)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=wordpress,ps)](https://skillicons.dev)
 
 on my todo-list:
