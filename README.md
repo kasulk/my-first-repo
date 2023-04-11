@@ -1,19 +1,19 @@
-# This is my very first markup-heading
+# This is my Very First Markup-Heading
 Great! 
 
 ## My Second Heading 
-My name is Daniel
+My name is Daniel 🦄
 
 ### My Hobbies
 1. Audiodrama
 2. Sports
 3. Finances
 
-### Unordered List
-- First item
-- Second item
+### This is a Unordered List
+- Awesome!
+- really!!
 
-### Link to a page
+### Link to a Page
 My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
 
 ### My Favorite Code
@@ -23,7 +23,7 @@ for (element of readers) {
 }
 ```
 
-### My favorite food 
+### My Favorite Food 
 🍕 🍫 🥐
 
 ### Technologies
