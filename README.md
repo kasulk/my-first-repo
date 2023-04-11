@@ -19,3 +19,9 @@ https://www.markdownguide.org
 ### Link to a page
 My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
 
+### Code
+``` js
+for (element of array)
+```
+
+weiter gehts!
