@@ -6,7 +6,7 @@ My name is Daniel 🦄
 
 ### My Interests
 1. Coding
-2. Audiodrama
+2. Audiocomedy
 3. Sports
 4. Finances
 
