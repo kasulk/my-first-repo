@@ -5,9 +5,10 @@ Great!
 My name is Daniel 🦄
 
 ### My Interests
-1. Audiodrama
-2. Sports
-3. Finances
+1. Coding
+2. Audiodrama
+3. Sports
+4. Finances
 
 ### This is a Unordered List
 - Awesome!
@@ -28,7 +29,7 @@ for (element of readers) {
 
 ### Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 <!--- [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) -->
 
 <!--- [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) -->
