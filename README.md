@@ -25,7 +25,7 @@ for (element of readers) {
 ```
 
 ### My Favorite Food 
-🍕 🍫 🥐
+🍔
 
 ### Technologies
 
