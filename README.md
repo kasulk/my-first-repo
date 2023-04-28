@@ -36,7 +36,7 @@ for (element of readers) {
 
 <!--- [![My Skills](https://skillicons.dev/icons?i=wordpress,ps)](https://skillicons.dev) -->
 
-on my todo-list:
+on my bucket list:
 
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,nextjs,mongodb,ts,tailwind,svelte)](https://skillicons.dev)
 
