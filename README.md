@@ -29,7 +29,7 @@ for (element of readers) {
 
 ### Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,next.js,mongodb,ts,tailwind)](https://skillicons.dev)
 <!--- [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) -->
 
 <!--- [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) -->
@@ -38,7 +38,8 @@ for (element of readers) {
 
 on my bucket list:
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,nextjs,mongodb,ts,tailwind,svelte)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=svelte)](https://skillicons.dev)
+<!--- [![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,nextjs,mongodb,ts,tailwind,svelte)](https://skillicons.dev) -->
 
 <!--- [![My Skills](https://skillicons.dev/icons?i=bootstrap,pr,regex)](https://skillicons.dev) -->
 
