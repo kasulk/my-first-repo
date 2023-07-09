@@ -29,7 +29,7 @@ for (element of readers) {
 
 ### Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,mongodb,ts,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,mongodb,ts,tailwind,git,github)](https://skillicons.dev)
 <!--- [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) -->
 
 <!--- [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) -->
