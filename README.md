@@ -20,7 +20,7 @@ My favorite website is [this](https://www.danielkaser.de/code).
 ### My Favorite Code
 ``` js
 for (element of readers) {
-  if (element === 'nice') {
+  if (element.isNice) {
     console.log("😘")
   }
 }
